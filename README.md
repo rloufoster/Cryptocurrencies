@@ -9,7 +9,7 @@
 
 ## Overview:
 
-The purpose of this analysis was to use data from CryptoCompare to provide a report and visualizations of currently traded cryptocurrencies that can be grouped together to create a new classification system. The report will be used to guide the Accountability Accounting firm in the decion of whether or not to offer a new investment portfolio to its customers that would include cryptocurrency investment opportunities. 
+The purpose of this analysis was to use data from CryptoCompare to provide a report and visualizations of currently traded cryptocurrencies that can be grouped together to create a new classification system. The report will be used to guide the Accountability Accounting firm in the decision of whether or not to offer a new investment portfolio to its customers that would include cryptocurrency investment opportunities. 
 
 The data provided to us is not ideal for machine learning models, so it is necessary to preprocess it to fit the algorithms requirements. Since there is no known output for what we are looking for, we decided to use unsupervised learning. We decided to use a clustering algorithm to group the cryptocurrencies. We will then use data visualizations to share our findings with the firm's board of directors.
 
